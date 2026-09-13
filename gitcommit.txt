@@ -1,0 +1,10 @@
+git status
+git add .
+git commit -m "Rebrand: LinkShort - High Performance & Scalable URL Shortener"
+
+git branch -M main
+git remote add origin https://github.com/your-username/LinkShort.git
+
+git remote -v
+
+git push -u origin main
